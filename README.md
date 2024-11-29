@@ -1,6 +1,3 @@
-Hi 👋 My name is Matías Antilef
-===============================
-
 Front end Developer| UI & UX | AWS
 ----------------------------------
 

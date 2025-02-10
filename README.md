@@ -1,4 +1,4 @@
-Desarrollador Full Stack | AWS Cloud Practitioner
+Full Stack developer | AWS Cloud Practitioner
 ----------------------------------
 
 ### Skills

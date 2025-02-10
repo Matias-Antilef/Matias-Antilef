@@ -1,10 +1,5 @@
-Front end Developer| UI & UX | AWS
+Desarrollador Full Stack | AWS Cloud Practitioner
 ----------------------------------
-
-* 🌍  I'm based in Chile
-* 🖥️  See my portfolio at [PORTFOLIO](http://PORTFOLIO)
-* 🚀  I'm currently working on [UTLP+ Academic Management](http://github.com/ShibiProyects/frontendUTLP)
-* 🧠  I'm learning Redux and NextJS
 
 ### Skills
 

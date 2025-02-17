@@ -22,7 +22,6 @@ Desarrollador Full Stack | AWS Cloud Practitioner
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<a href="">
+<a href="https://www.linkedin.com/in/matias-antilef/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg" />
-Linkedin
-<a>
+</a>
